@@ -1,4 +1,4 @@
-室内地图编辑器
+基于QT与C++开发室内地图编辑器
 This is a simple editor for creating and editing indoor maps.\
 The data can be used in my [indoor3D](https://github.com/wolfwind521/indoor3D) project for visualization.
 
